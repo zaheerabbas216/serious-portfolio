@@ -1,0 +1,22 @@
+[
+    {   "id":"1",
+        "techstackname":"Designer",
+        "description":"I value simple content structure, clean design patterns, and thoughtful interactions.",
+        "thinsgIdo":["UX, UI, Web, Apps, Logos"],
+        "tools":["Figma, Webflow"]
+    },
+    {
+        "id":"2",
+        "techstackname":"Frontend Developer",
+        "description":"I like to code things from scratch, and enjoy bringing ideas to life in the browser.",
+        "thinsgIdo":["HTML", "Js", "Css", "Sass", "React Js", "Angular Js", "Vue Js", "Next Js"],
+        "tools":["VS Code"] 
+    },
+    {
+        "id":"3",
+        "techstackname":"Backend Developer",
+        "description":"I find joy in crafting robust server-side solutions from the ground up, turning conceptual designs into fully functional and efficient systems.",
+        "thinsgIdo":["MongoDB", "SQL","Node Js", "Express Js"],
+        "tools":["MySql Workbench", "Dbeaver"]
+    }
+]

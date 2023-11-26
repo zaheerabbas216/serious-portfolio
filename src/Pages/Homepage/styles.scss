@@ -1,0 +1,34 @@
+@import "../../assets/commonstyles/colors.scss";
+
+.mainhomepagecomponent{
+    height: 100vh;;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainheading{
+    font-size: 4rem;
+    color: $primarybuttoncolor;
+    font-weight: 700;
+    padding: 0px 20px;
+}
+
+.mainsubheading{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.bannerimage{
+    width: 100%;
+}
+
+.bannerinfo{
+ background-color: $bannerbackgroundimage;
+ color: #fff;
+ height: 500px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+}

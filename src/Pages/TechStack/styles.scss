@@ -1,0 +1,18 @@
+@import "../../assets/commonstyles/colors.scss";
+
+.itemcardheading{
+    color: $primarybuttoncolor;
+    font-weight: 600;
+}
+
+.iconclass{
+    height: 40px;
+    width: 40px;
+}
+
+.truncate {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 2; /* Number of lines to show */
+}
