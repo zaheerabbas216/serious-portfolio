@@ -1,0 +1,23 @@
+@import "../../assets/commonstyles/colors.scss";
+
+// primarybuttoncolor
+
+.footerparentdiv{
+    height: 300px;
+    background: $primarybuttoncolor;
+}
+.footerdiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    flex-direction: column;
+}
+
+.socialicon{
+    height: 40px;
+    width: 40px;
+    background: #fff;
+    border-radius: 50px;
+    margin-right: 10px;
+}

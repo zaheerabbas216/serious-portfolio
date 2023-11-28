@@ -5,6 +5,9 @@ import CodeImage from "../../assets/images/coderimagehomepage.jpg";
 import BannerImage from "../../assets/images/bannerimage.jpg";
 import TechStack from "../TechStack";
 import RecentsWorks from "../RecentWorks";
+import MyProjects from "../MyProjects";
+import ContactMe from "../ContactMe";
+import Footer from "../Footer";
 
 const Homepage = () => {
   return (
@@ -25,6 +28,24 @@ const Homepage = () => {
 
       <div>
         <RecentsWorks />
+      </div>
+
+      <div>
+        <MyProjects />
+      </div>
+
+      <div>
+        <ContactMe />
+      </div>
+
+      <div>
+        <Footer />
+      </div>
+
+      <div class="sticky-note">
+        the data in the portfolio needs to be updated, like the projects and
+        recent works. Rest of data is accurate. still its in the developing
+        stage.
       </div>
     </>
   );

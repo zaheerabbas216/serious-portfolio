@@ -1,0 +1,18 @@
+@import "../../assets/commonstyles/colors.scss";
+
+.headingcontact{
+    color: $primarybuttoncolor;
+    font-weight: 700;
+}
+
+.btncontact{
+    height: 50px;
+    padding: 0px 50px;
+    background: none;
+    outline: none;
+    border: none;
+    border: 1px solid $primarybuttoncolor;
+    color: $primarybuttoncolor;
+    border-radius: 40px;
+    font-size: 20px;
+}

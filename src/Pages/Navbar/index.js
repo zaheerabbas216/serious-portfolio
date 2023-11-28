@@ -14,7 +14,12 @@ const Navbar = () => {
           />
         </div>
         <div>
-          <button className="btn btn-primary sayhellobutton">Say Hello!</button>
+          <a
+            className="btn btn-primary sayhellobutton d-flex align-items-center"
+            href="mailto:abbaszaheer216@gmail.com"
+          >
+            Say Hello!
+          </a>
         </div>
       </div>
     </>

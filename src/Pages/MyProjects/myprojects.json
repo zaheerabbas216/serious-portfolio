@@ -1,0 +1,33 @@
+[
+    {
+      "companyName": "Tech Innovators",
+      "logoUrl": "https://dummycompanylogos.com/logo1.png",
+      "description": "Pioneering technology solutions for a connected world.",
+      "link": "https://techinnovators.com"
+    },
+    {
+      "companyName": "Global Ventures",
+      "logoUrl": "https://dummycompanylogos.com/logo2.png",
+      "description": "Driving global business growth through innovative strategies.",
+      "link": "https://globalventures.io"
+    },
+    {
+      "companyName": "Creative Minds Co.",
+      "logoUrl": "https://dummycompanylogos.com/logo3.png",
+      "description": "Unleashing creativity to shape a brighter future.",
+      "link": "https://creativemindsco.com"
+    },
+    {
+      "companyName": "GreenTech Solutions",
+      "logoUrl": "https://dummycompanylogos.com/logo4.png",
+      "description": "Sustainable technology for a greener tomorrow.",
+      "link": "https://greentechsolutions.org"
+    },
+    {
+      "companyName": "Infinite Horizons Ltd.",
+      "logoUrl": "https://dummycompanylogos.com/logo5.png",
+      "description": "Exploring limitless possibilities in the business world.",
+      "link": "https://infinitehorizonsltd.com"
+    }
+  ]
+  
