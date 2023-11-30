@@ -1,34 +1,10 @@
+
 {
     "data": [
       {
-        "title": "Blue Abstract",
+        "title": "BOX Champ",
         "image": "https://dummyimage.com/300x200/3498db/ffffff",
-        "description": "A captivating abstract composition with shades of blue and white."
-      },
-      {
-        "title": "Green Landscape",
-        "image": "https://dummyimage.com/300x200/2ecc71/ffffff",
-        "description": "Explore the beauty of nature with this serene green landscape."
-      },
-      {
-        "title": "Red Fusion",
-        "image": "https://dummyimage.com/300x200/e74c3c/ffffff",
-        "description": "A bold and energetic fusion of red hues in an abstract artwork."
-      },
-      {
-        "title": "Yellow Sunshine",
-        "image": "https://dummyimage.com/300x200/f1c40f/ffffff",
-        "description": "Bask in the warmth of yellow sunshine with this vibrant composition."
-      },
-      {
-        "title": "Purple Dreams",
-        "image": "https://dummyimage.com/300x200/9b59b6/ffffff",
-        "description": "Embark on a journey through dreamy landscapes with shades of purple."
-      },
-      {
-        "title": "Black Dreams",
-        "image": "https://dummyimage.com/300x200/9b59b6/ffffff",
-        "description": "Embark on a journey through dreamy landscapes with shades of purple."
+        "description": "Just a  design for a web page. it's not a log, but just a poc for the figma."
       }
     ]
   }

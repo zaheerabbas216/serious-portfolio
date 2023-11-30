@@ -14,7 +14,7 @@ const ContactMe = () => {
         </div>
         <div className="mt-3 w-100 text-center d-flex align-items-center justify-content-center">
           <a
-            className="btn btn-primary btncontact d-flex align-items-center w-25 justify-content-center"
+            className="btn btn-primary btncontact d-flex align-items-center justify-content-center"
             href="mailto:abbaszaheer216@gmail.com"
           >
             Say Hello!

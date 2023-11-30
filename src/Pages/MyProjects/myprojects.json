@@ -1,32 +1,32 @@
 [
     {
-      "companyName": "Tech Innovators",
+      "companyName": "Pennymead.com",
       "logoUrl": "https://dummycompanylogos.com/logo1.png",
-      "description": "Pioneering technology solutions for a connected world.",
-      "link": "https://techinnovators.com"
+      "description": "Designed, developed frontend screens driven by React for a large e-commerce site that serves the world's book, stamp, and card industry.",
+      "link": "https://pennymead.com"
     },
     {
-      "companyName": "Global Ventures",
+      "companyName": "Microfee",
       "logoUrl": "https://dummycompanylogos.com/logo2.png",
-      "description": "Driving global business growth through innovative strategies.",
+      "description": "Worked on the design for the web pages for Microfee – seller using the React Js, and also with the admin side of the application",
       "link": "https://globalventures.io"
     },
     {
-      "companyName": "Creative Minds Co.",
+      "companyName": "Complyment",
       "logoUrl": "https://dummycompanylogos.com/logo3.png",
-      "description": "Unleashing creativity to shape a brighter future.",
+      "description": "Developing and implementing highly responsive user interface components using angular concepts.",
       "link": "https://creativemindsco.com"
     },
     {
-      "companyName": "GreenTech Solutions",
+      "companyName": "Evee Drive",
       "logoUrl": "https://dummycompanylogos.com/logo4.png",
-      "description": "Sustainable technology for a greener tomorrow.",
+      "description": "Developed screens using HTML, CSS and JavaScript for both desktop and mobile devices based on the user requirements.",
       "link": "https://greentechsolutions.org"
     },
     {
-      "companyName": "Infinite Horizons Ltd.",
+      "companyName": "Autorent 247",
       "logoUrl": "https://dummycompanylogos.com/logo5.png",
-      "description": "Exploring limitless possibilities in the business world.",
+      "description": "Refactor the code to implement DRY principle. Collaborated with the UX team to understand the behavior of different pages for the purpose.",
       "link": "https://infinitehorizonsltd.com"
     }
   ]

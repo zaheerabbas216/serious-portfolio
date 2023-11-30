@@ -42,11 +42,11 @@ const Homepage = () => {
         <Footer />
       </div>
 
-      <div class="sticky-note">
+      {/* <div class="sticky-note">
         the data in the portfolio needs to be updated, like the projects and
         recent works. Rest of data is accurate. still its in the developing
         stage.
-      </div>
+      </div> */}
     </>
   );
 };

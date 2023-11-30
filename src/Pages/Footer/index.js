@@ -15,11 +15,25 @@ const Footer = () => {
           </div>
 
           <div>
-            <img src={Whatsapp} alt="" className="socialicon" />
-            <img src={Github} alt="" className="socialicon" />
-            <img src={Mail} alt="" className="socialicon" />
-            <img src={LinkedIn} alt="" className="socialicon" />
-            <img src={Twitter} alt="" className="socialicon" />
+            {/* <img src={Whatsapp} alt="" className="socialicon" /> */}
+            {/* <img
+              src={Github}
+              alt=""
+              className="socialicon"
+              title="Visit my github profile"
+            /> */}
+            <a href="mailto:abbaszaheer216@gmail.com">
+              <img src={Mail} alt="" className="socialicon" />
+            </a>
+            <a href="www.linkedin.com/in/zaheerabbas216">
+              <img src={LinkedIn} alt="" className="socialicon" />
+            </a>
+            <img
+              src={Twitter}
+              alt=""
+              className="socialicon"
+              title="@zaheer__abbas__"
+            />
           </div>
         </div>
       </div>
